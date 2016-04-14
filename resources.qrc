@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Comment_Dots.png</file>
+        <file>Arrow_Down.png</file>
+        <file>Arrow_Up.png</file>
+        <file>Open_Folder.png</file>
+        <file>Save.png</file>
+    </qresource>
+</RCC>
