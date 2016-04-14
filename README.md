@@ -1,1 +1,2 @@
 # MorsesCodeTranslator
+qt c++
